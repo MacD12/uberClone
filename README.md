@@ -30,7 +30,7 @@ The Uber Clone project aims to replicate the core functionalities of the Uber ap
 
 Insert project screenshots here to give an overview of the app's user interface.
 
-![Screenshot 1](path/to/screenshot1.png)
+![Screenshot 1](assets/Uber_Clone_Screenshot.jpg)
 
 ## Installation
 
