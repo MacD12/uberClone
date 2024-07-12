@@ -1,5 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
+import { Colors } from 'react-native/Libraries/NewAppScreen'
 
 const App = () => {
   return (
@@ -11,4 +12,9 @@ const App = () => {
 
 export default App
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+
+  
+
+
+})
